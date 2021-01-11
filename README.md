@@ -48,7 +48,7 @@ The following instructions must be followed to run the tests:
 `python3 bot.py` under /bot directory.
  2. Open Telegram and search for 'soufianeaatab_polygons'
  3. Once opened the user can work with convex polygons from its phone. The Bot then is ready to read commands in the programming language and print (or draw) the corresponding results.
-[image]
+![alt text](https://github.com/SoufianeAatab/practica2_lp/blob/main/11.png)
 
 **Tests Second Part**(ANTLR)
 
@@ -56,7 +56,9 @@ The following instructions must be followed to run the tests:
  2.  Under /cl directory run the following command.
 `python3 test.py example.s`. Where example.s is a file with antlr4 commands.
 Test.py expects a filename with commands in the programming language as a parameter.
-[image]
+
+Test file example
+![alt text](https://github.com/SoufianeAatab/practica2_lp/blob/main/22.png)
 
 ## Built With
 
