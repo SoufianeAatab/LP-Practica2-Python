@@ -9,7 +9,7 @@ The project has the following structure.
  - A **polygons.py** file containing the polygon class.
  - A **cl** folder with the contents of the compiler part.
  - A **bot** folder with the contents of the chatbot part
- - The main file should be called **bot.py**
+ - The main file called **bot.py**
  - Test.py file to test the part of the compiler individually
 
 ### Prerequisites
