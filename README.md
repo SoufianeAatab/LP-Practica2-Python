@@ -15,10 +15,11 @@ The project has the following structure.
 ### Prerequisites
 
 Install Python3 and pip3 to run the project.
+
 First check if Python3 is installed in your machine with the following command:
 
     Python3 --version
-If not install it.
+If not, install it.
 
     apt-get install python3.8
 
