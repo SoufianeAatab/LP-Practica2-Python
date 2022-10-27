@@ -1,7 +1,7 @@
 
 # Práctica GEI-LP (2020 edition)
 
-PolyBot project, the second project for GEI-LP (2020 edition). This project consists of implementing a Telegram Bot, using Python, that replies textually and graphically to operations related to convex polygons.
+PolyBot project, the second project for GEI-LP (2020 edition). This project consists of implementing a Telegram Bot using Python that replies textually and graphically to operations related to convex polygons.
 
 ## Getting Started
 The project has the following structure.
